@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=spring_boot_backend_template/C:\/Users\/Mahesh\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.18\/spring-data-jpa-2.7.18.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.18=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1716887837746"/>
+    <typeInfo handle="=spring_boot_backend_template/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.Services{IRailwayService.java[IRailwayService" modifiers="513" timestamp="1720702485209"/>
+</typeInfoHistroy>
